@@ -1,3 +1,9 @@
+iputils (3:20121221-4~1wheezy1) stable; urgency=low
+
+  * Backport to wheezy.
+
+ -- Noah Meyerhans <noahm@debian.org>  Mon, 09 Dec 2013 08:25:37 -0800
+
 iputils (3:20121221-4) unstable; urgency=low
 
   * Cache DNS lookup results. (Closes: 109709)
