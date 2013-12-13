@@ -3,7 +3,7 @@ iputils (3:20121221-4~1wheezy1) stable; urgency=low
   * Backport to wheezy.
   * Revert libgnutls-openssl-dev build-deps change
   
- -- Noah Meyerhans <noahm@debian.org>  Mon, 09 Dec 2013 08:25:37 -0800
+ -- Noah Meyerhans <noahm@debian.org>  Fri, 13 Dec 2013 00:03:08 -0800
 
 iputils (3:20121221-4) unstable; urgency=low
 
